@@ -1,10 +1,8 @@
 # Coding the Genome (CG)
 
-[![Deploy to GitHub Pages](https://github.com/alyazeeditalal/bioinformatics_training/actions/workflows/deploy.yml/badge.svg)](https://github.com/alyazeeditalal/bioinformatics_training/actions/workflows/deploy.yml)
-
 A dual English and Arabic language course to train the next generation of bioinformatics scientists.
 
-**Live Course:** [https://alyazeeditalal.github.io/bioinformatics_training/](https://alyazeeditalal.github.io/bioinformatics_training/)
+**Live Course:** [\[https://alyazeeditalal.github.io/bioinformatics_training/\](https://alyazeeditalal.github.io/bioinformatics_training/)](https://alyazeeditalal.github.io/Coding-the-Genome-GC/)
 
 ## About
 
