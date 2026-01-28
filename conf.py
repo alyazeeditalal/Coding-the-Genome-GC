@@ -45,7 +45,7 @@ html_theme = 'sphinx_book_theme'
 html_static_path = ['_static']
 
 html_theme_options = {
-    'repository_url': 'https://github.com/alyazeeditalal/bioinformatics_training',
+    'repository_url': 'https://github.com/alyazeeditalal/Coding-the-Genome-GC',
     'use_repository_button': True,
 }
 
