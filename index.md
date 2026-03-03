@@ -1,7 +1,7 @@
 # Coding the Genome (CG)
 ## Genomics and Bioinformatics Course
 
-A dual English and Arabic language course to train the next generation of bioinformatics scientists.
+A dual English and Arabic language course to train the next generation of bioinformatics scientists. While solving region most presing challenges using genomics together. 
 
 Created and delivered by **Dr.** [Talal Al-Yazeedi](https://github.com/alyazeeditalal) under the supervision of **Professor** [Khalid Amiri](https://research.uaeu.ac.ae/en/persons/khaled-amiri/).
 
@@ -24,17 +24,26 @@ Welcome to Coding the Genome (CG), a bioinformatics course designed to provide y
 This course is actively being developed. New sessions will be added regularly.
 ```
 
-## Sessions
+## Training Sessions
 
 ```{toctree}
-:maxdepth: 2
-:caption: Contents
+:caption: Training Sessions
+:maxdepth: 1
 
 preface
 sessions/01_bioinformatics_file_types
 sessions/02_linux_essentials
 sessions/03_database_navigation
 sessions/04_project_organisation
+```
+
+## Journal Club
+
+```{toctree}
+:caption: Journal Club
+:maxdepth: 1
+
+journal_club/sheep_pop_gen
 ```
 
 ---
