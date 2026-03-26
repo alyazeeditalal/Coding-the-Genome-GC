@@ -24,13 +24,16 @@ Welcome to Coding the Genome (CG), a bioinformatics course designed to provide y
 This course is actively being developed. New sessions will be added regularly.
 ```
 
-## Training Sessions
+```{toctree}
+:maxdepth: 1
+
+preface
+```
 
 ```{toctree}
 :caption: Practical Introduction to Bioinformatics
 :maxdepth: 1
 
-preface
 sessions/01_bioinformatics_file_types
 sessions/02_linux_essentials
 sessions/03_database_navigation
