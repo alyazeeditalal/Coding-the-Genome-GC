@@ -47,8 +47,11 @@ html_static_path = ['_static']
 html_theme_options = {
     'repository_url': 'https://github.com/alyazeeditalal/Coding-the-Genome-GC',
     'use_repository_button': True,
+    'show_toc_level': 0,   # Don't expand in-page headings into the left sidebar
 }
 
 html_logo = '_static/images/coding_the_genome_logo.png'
 
 html_title = 'Bioinformatics Course'
+
+html_css_files = ['custom.css']

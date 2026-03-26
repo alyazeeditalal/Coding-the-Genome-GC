@@ -27,7 +27,7 @@ This course is actively being developed. New sessions will be added regularly.
 ## Training Sessions
 
 ```{toctree}
-:caption: Training Sessions
+:caption: Practical Introduction to Bioinformatics
 :maxdepth: 1
 
 preface
@@ -42,7 +42,9 @@ sessions/04_project_organisation
 ```{toctree}
 :caption: Journal Club
 :maxdepth: 1
+:titlesonly:
 
+journal_club/celegans_genome_evolution
 journal_club/sheep_pop_gen
 ```
 

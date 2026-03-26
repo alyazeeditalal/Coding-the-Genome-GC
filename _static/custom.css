@@ -1,0 +1,9 @@
+/* Body / general text */
+body, p, li, td, th, .bd-content {
+    font-family: Arial, sans-serif;
+}
+
+/* Code blocks */
+code, pre, .highlight {
+    font-family: 'Fira Code', monospace;
+}
